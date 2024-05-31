@@ -1,6 +1,8 @@
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kaminski)](https://github.com/uladkaminski/github-readme)
 
 <!--
+
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kaminski)](https://github.com/uladkaminski/github-readme)
+
 **uladkaminski/uladkaminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
